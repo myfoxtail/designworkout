@@ -61,6 +61,8 @@ sacked the Orthodox Christian Constantinople (1204), the exhausted crusaders “
 Their eyes were bloodshot for **they shed more blood than tears.**” The reason could be malnutrition, physical
 exhaustion, and/or epidemic infection.
 
+### Result
+
 ![result](result-exercise1.jpg)
 
 
