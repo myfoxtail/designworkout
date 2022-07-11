@@ -63,7 +63,6 @@ exhaustion, and/or epidemic infection.
 
 ### Result
 
+A man as a tree bleading with his tears as a symbol of compunction and self-punishment.
+
 ![result](result-exercise1.jpg)
-
-
-### Feedback
