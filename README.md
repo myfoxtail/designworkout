@@ -5,7 +5,7 @@ Design workout exercises for https://online.designworkout.ru/.
 
 | Exercise | What is it about | Type | Completed |
 | ---- | ----- | ---------- | ---------- |
-| [exercise1](./exercise1/readme.md) | ![exercise1](./exercise1/exercise1.jpg) Проанализируйте образ героя и достройте его погрудный портрет до полноростового. | `interpretation` | [x] |
+| [exercise1](./exercise1/readme.md) | ![exercise1](./exercise1/exercise1.jpg) Проанализируйте образ героя и достройте его погрудный портрет до полноростового. | `interpretation` | :heavy_check_mark: |
 | [exercise2](./exercise2/readme.md) | ![exercise2](./exercise2/exercise2.jpg) Как бы то ни было, в результате Большого взрыва появились не только миллиарды звёзд и планет но ещё и ряд объектов, один из которых на примере. Предложите варианты остальных. | `interpretation` | [x] |
 | [exercise3](./exercise3/readme.md) | ![exercise3](./exercise3/exercise3.jpg) Изучите образы Mercedes-Benz W124 Е300 купе и маффина с черникой. Предложите фазы трансформации одного объекта в другой, последовательно меняя один параметр каждого объекта. | `system` | [ ] |
 | [exercise4](./exercise4/readme.md) | ![exercise4](./exercise4/exercise4.jpg) Внешний вид героя сильно изменился благодаря воздействию электричества. Проанализируйте формы и предложите исходный образ героя и варианты его трансформации под воздействием воды, огня и сильного ветра. | `interpretation` | [ ] |
